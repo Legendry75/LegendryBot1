@@ -13,7 +13,7 @@ client.on('message', message => {
 
 
 
-client.login(process.env.NDcwMjUyNDE5NTM2OTEyMzg0.DjTlUA.-SeV6qsQX5fV0bxUwio_Mjeb_Hs);
+client.login(NDcwMjUyNDE5NTM2OTEyMzg0.DjTlUA.-SeV6qsQX5fV0bxUwio_Mjeb_Hs);
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
     console.log(`in ${client.guilds.size} servers `)
